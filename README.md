@@ -27,6 +27,4 @@ Fachbereichs- und Semesterstammdaten integriert, Transformationsregeln definiert
 ### Teil D – Data Mart und OLAP
 Ein Data-Mart-aDSO modelliert, einen CompositeProvider eingerichtet und OLAP-Auswertungen umgesetzt.
 
-## Dokumentation
 
-Screenshots und ausführliche Projektdokumentationen werden nach Prüfung auf vertrauliche Informationen ergänzt.
